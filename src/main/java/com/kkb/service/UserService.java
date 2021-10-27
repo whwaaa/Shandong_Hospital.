@@ -73,7 +73,6 @@ public class UserService {
         return userMapper.selectByPrimaryKey(u_id);
     }
 
-
     /**
      * 根据主键更新
      * @return
