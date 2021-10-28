@@ -6,6 +6,7 @@ package com.kkb.vo;
  * @author wuhanwei
  * @version 1.0
  * @date 2021/10/28
+ *
  */
 public class UserQueryVO {
 
